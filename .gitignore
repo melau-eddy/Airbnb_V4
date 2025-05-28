@@ -1,0 +1,15 @@
+hbnb_venv/
+__pycache__/
+*.pyc
+*.pyo
+instance/
+*.log
+hbnbv4_venv/
+
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+__pycache__/
+*.pyc
