@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Lenson Mutugi - [Github](https://github.com/lensonlovescode)  
-Dennis Muchai - [Github](https://github.com/dmuchai)
+Dennis Muchai - [Github](https://github.com/dmuchai)    
 Eddy Mutugi - [Github](https://github.com/melau-eddy)
 
 Second part of Airbnb: Joann Vuong
